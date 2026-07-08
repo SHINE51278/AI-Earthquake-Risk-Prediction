@@ -30,3 +30,9 @@ presentation/
 docs/
 images/
 ```
+
+## NOTE: 
+The original dataset is too large to be stored on GitHub.
+
+Download it from:
+https://www.kaggle.com/datasets/alessandrolobello/the-ultimate-earthquake-dataset-from-1990-2023?utm_source=chatgpt.com
