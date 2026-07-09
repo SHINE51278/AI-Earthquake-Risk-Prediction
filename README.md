@@ -31,6 +31,11 @@ docs/
 images/
 ```
 
+## Project Documentation
+
+- docs/Project_Plan.md
+- docs/Literature_Review.md
+
 ## NOTE: 
 The original dataset is too large to be stored on GitHub.
 
